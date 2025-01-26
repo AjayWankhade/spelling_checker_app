@@ -10,4 +10,4 @@ Python Backend: Uses the spellchecker library for accurate spell-checking.
 React Frontend: A responsive and intuitive UI with real-time feedback.
 
 Dark Mode Toggle: Easily switch between dark and light mode for a personalized experience.
-# spelling_checker_app
+
